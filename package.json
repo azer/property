@@ -1,0 +1,19 @@
+{
+  "name": "prop",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  },
+  "repository": {
+    "url": "git@github.com:adaio\/prop.git",
+    "type": "git"
+  },
+  "author": "Azer Koculu <azer@kodfabrik.com>",
+  "license": "BSD"
+}
