@@ -91,5 +91,4 @@ it('can be extended', function(){
 
   expect(foo()).to.equal(1560);
 
-
 });

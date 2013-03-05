@@ -4,11 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "highkick"
   },
   "devDependencies": {
-    "mocha": "*",
-    "chai": "*"
+    "highkick": "*"
   },
   "repository": {
     "url": "git@github.com:adaio\/prop.git",
