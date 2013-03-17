@@ -1,6 +1,6 @@
 {
   "name": "ada-prop",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "highkick": "*"
   },
   "repository": {
-    "url": "git@github.com:adaio\/prop.git",
+    "url": "git@github.com:adaio/prop.git",
     "type": "git"
   },
   "author": "Azer Koculu <azer@kodfabrik.com>",
