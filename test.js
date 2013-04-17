@@ -1,5 +1,4 @@
-var prop    = require("./"),
-    expect = require('chai').expect;
+var prop    = require("./");
 
 it('creates a new prop', function(){
 

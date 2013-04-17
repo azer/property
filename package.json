@@ -1,16 +1,16 @@
 {
-  "name": "ada-prop",
-  "version": "0.0.1",
-  "description": "",
+  "name": "new-prop",
+  "version": "0.0.0",
+  "description": "Minimalistic, extendible properties",
   "main": "index.js",
   "scripts": {
-    "test": "highkick"
+    "test": "fox"
   },
   "devDependencies": {
-    "highkick": "*"
+    "fox": "*"
   },
   "repository": {
-    "url": "git@github.com:adaio/prop.git",
+    "url": "git@github.com:azer/prop.git",
     "type": "git"
   },
   "author": "Azer Koculu <azer@kodfabrik.com>",
