@@ -10,7 +10,7 @@
     "fox": "*"
   },
   "repository": {
-    "url": "git@github.com:azer/prop.git",
+    "url": "git@github.com:azer/new-prop.git",
     "type": "git"
   },
   "author": "Azer Koculu <azer@kodfabrik.com>",
