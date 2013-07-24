@@ -1,4 +1,4 @@
-## new-prop
+## property [![Build Status](https://travis-ci.org/azer/property.png)](https://travis-ci.org/azer/property)
 
 Minimalistic, extendible property library for JavaScript 
 
