@@ -1,7 +1,7 @@
 {
-  "name": "new-prop",
+  "name": "property",
   "version": "0.0.0",
-  "description": "Minimalistic, extendible properties",
+  "description": "Minimalistic, extensible properties",
   "main": "index.js",
   "scripts": {
     "test": "fox"
@@ -10,7 +10,7 @@
     "fox": "*"
   },
   "repository": {
-    "url": "git@github.com:azer/new-prop.git",
+    "url": "git@github.com:azer/property.git",
     "type": "git"
   },
   "author": "Azer Koculu <azer@kodfabrik.com>",
