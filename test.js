@@ -1,19 +1,24 @@
+var test = require('prova');
 var prop = require("./");
 
-it('creates a new prop', function(){
+test('creates a new prop', function (t) {
+  t.plan(3);
+
   var foo = prop();
 
-  expect(foo()).to.not.exist;
+  t.notOk(foo());
 
   foo(3.14);
-  expect(foo()).to.equal(3.14);
+  t.equal(foo(), 3.14);
 
   foo(156);
-  expect(foo()).to.equal(156);
+  t.equal(foo(), 156);
 });
 
-it('creates a new prop with default value', function(){
+test('creates a new prop with default value', function (t) {
+  t.plan(1);
+  
   var foo = prop(3.14);
 
-  expect(foo()).to.equal(3.14);
+  t.equal(foo(), 3.14);
 });
